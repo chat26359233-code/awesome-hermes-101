@@ -11,11 +11,12 @@
 ## 入门级教程
 
 一文理清！Hermes 全部高阶工具配置
+
 https://x.com/ResearchWang/status/2045812932538438001
 
 
 
-##记忆系统
+## 记忆系统
 
 1.Hindsight（解决失忆问题）
 给 Hermes 装上“长期记忆”，拒绝做陌生人。
