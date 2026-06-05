@@ -10,6 +10,7 @@
 
 # 一个月5$用上hermes
 一个合适的VPS就能用上hermes
+$5 VPS + Telegram Bot就能搭出一个24/7在线的个人AI Agent。这个性价比，比订阅制的商业Agent方案划算太多了。
 
 
 
