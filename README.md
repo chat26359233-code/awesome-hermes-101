@@ -8,13 +8,16 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![GitHub stars](https://img.shields.io/github/stars/chat26359233-code/awesome-hermes-101?style=social)
 
-## 入门级教程
+# 入门级教程
 
 一文理清！Hermes 全部高阶工具配置
 
 https://x.com/ResearchWang/status/2045812932538438001
 
 
+
+
+# 工具插件类
 
 ## 记忆系统
 
@@ -23,3 +26,15 @@ https://x.com/ResearchWang/status/2045812932538438001
 跨会话自动召回架构决策和项目偏好，原生集成 Hermes。
 
 https://github.com/vectorize-io/hindsight
+
+## 搜索插件 hermes-web-search-plus
+
+多引擎智能路由 + 质量报告 + 研究模式。
+
+https://github.com/robbyczgw-cla/hermes-web-search-plus
+
+
+
+
+
+
