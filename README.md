@@ -8,7 +8,12 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![GitHub stars](https://img.shields.io/github/stars/chat26359233-code/awesome-hermes-101?style=social)
 
-## 🗺️ 入门级教程
+## 入门级教程
+
+一文理清！Hermes 全部高阶工具配置
+https://x.com/ResearchWang/status/2045812932538438001
+
+
 
 ##记忆系统
 
