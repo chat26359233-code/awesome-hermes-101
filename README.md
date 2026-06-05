@@ -8,6 +8,12 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![GitHub stars](https://img.shields.io/github/stars/chat26359233-code/awesome-hermes-101?style=social)
 
+# 一个月5$用上hermes
+一个合适的VPS就能用上hermes
+
+
+
+
 # 入门级教程
 
 一文理清！Hermes 全部高阶工具配置
@@ -17,7 +23,6 @@ https://x.com/ResearchWang/status/2045812932538438001
 hermes橙皮书
 
 https://www.huasheng.ai/orange-books/hermes-agent/
-
 
 
 
