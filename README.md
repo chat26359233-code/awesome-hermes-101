@@ -8,14 +8,25 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![GitHub stars](https://img.shields.io/github/stars/chat26359233-code/awesome-hermes-101?style=social)
 
-# 一个月5$用上hermes
+# 是什么
+Hermes Agent是越用越好用。能记住你的喜好，能自己学习的agent。
+
+
+
+# 为什么
+
+
+
+# 怎么用【教程】
+
+## 一个月5$用上hermes
 一个合适的VPS就能用上hermes
 $5 VPS + Telegram Bot就能搭出一个24/7在线的个人AI Agent。这个性价比，比订阅制的商业Agent方案划算太多了。
 
 
 
 
-# 入门级教程
+## 入门级教程
 
 一文理清！Hermes 全部高阶工具配置
 
@@ -27,7 +38,7 @@ https://www.huasheng.ai/orange-books/hermes-agent/
 
 
 
-# 工具插件类
+## 工具插件类
 
 ## 记忆系统
 
