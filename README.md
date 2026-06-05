@@ -34,8 +34,17 @@ https://github.com/vectorize-io/hindsight
 
 2.Supermemory 
 Supermemory是为 AI 设计的记忆与上下文层。三大 AI 记忆基准上均位列第一。
-
 https://github.com/supermemoryai/supermemory
+
+
+3.mem0
+https://github.com/mem0ai/mem0
+
+
+AI Agent Memory：Hindsight × Holographic 横纵深度分析
+https://mp.weixin.qq.com/s/rnoW4i9W8hoIDwWDkFOhig
+
+
 
 
 
