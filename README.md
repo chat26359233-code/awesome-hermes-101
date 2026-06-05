@@ -31,6 +31,14 @@ https://www.huasheng.ai/orange-books/hermes-agent/
 
 https://github.com/vectorize-io/hindsight
 
+
+2.Supermemory 
+Supermemory是为 AI 设计的记忆与上下文层。三大 AI 记忆基准上均位列第一。
+
+https://github.com/supermemoryai/supermemory
+
+
+
 ## 搜索插件 hermes-web-search-plus
 
 多引擎智能路由 + 质量报告 + 研究模式。
