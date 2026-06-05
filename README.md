@@ -14,6 +14,10 @@
 
 https://x.com/ResearchWang/status/2045812932538438001
 
+hermes橙皮书
+
+https://www.huasheng.ai/orange-books/hermes-agent/
+
 
 
 
